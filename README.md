@@ -1,5 +1,5 @@
 ## Olá! Esse é o meu perfil do github 👋
-![Joao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoHr1&show_icons=true&theme=dark#gh-dark-mode-only) 
+[![Joao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoHr1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoaoHr1)
 
 ## Contato 📞
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-oliveira-rodrigues-760079234/)
