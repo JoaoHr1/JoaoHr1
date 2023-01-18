@@ -1,5 +1,5 @@
 ## Olá! Esse é o meu perfil do github 👋
-[![Joao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoaoHr1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoaoHr1)
+[![Joao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaohr1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joaohr1)
 
 ## Tecnologias que uso/pratico 💻
 <div style="display: inline_block">
