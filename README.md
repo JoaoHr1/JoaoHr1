@@ -1,5 +1,4 @@
 <h1 align="center"> Joao Henrique Oliveira Rodrigues </h1>
-
     
 <div align="center">
 <b> Back-end Developer | Java | Kotlin | Spring  🚀 🚀  </b>
@@ -27,6 +26,21 @@ Olá, bem vindo ao meu github! 👋
   Me chamo João, sou apaixonado por tecnologia desde criança. Tenho conhecimento em desenvolvimento de API's Rest, cloud computing, modelagem de software e principios de desenvolvimento ágil, além das linguagens **Java** e **Kotlin**, experiência em bancos de dados SQL e NOSQL+.
   
   Atualmente trabalhando em projetos próprios, estou em busca da primeira oportunidade no mercado. 😊
-  
+    
+ <div>
+ 
+<div>
+    
+<details closed>
+<summary>Contato</summary>
+       <br>
+ <a href = "mailto:joaoibitira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-hr-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+</div>
+
+</div>
     
 </details>
+
+
