@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b> | Back-end Developer | Java | Kotlin | Spring  |  🚀 🚀  </b>
+<b> Back-end Developer | Java | Kotlin | Spring  🚀 🚀  </b>
 <br>
 <br>
 
