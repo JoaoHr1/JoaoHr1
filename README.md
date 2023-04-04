@@ -1,4 +1,4 @@
-<h1 align="center"> Joao Henrique Oliveira Rodrigues </h1>
+<h1 align="center"> João Henrique Oliveira Rodrigues </h1>
     
 <div align="center">
 <b> Back-end Developer | Java | Kotlin | Spring  🚀 🚀  </b>
