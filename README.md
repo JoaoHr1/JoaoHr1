@@ -25,7 +25,7 @@ Olá, bem vindo ao meu github! 👋
   
   Me chamo João, sou apaixonado por tecnologia desde criança. Tenho conhecimento em desenvolvimento de API's Rest, cloud computing, modelagem de software e principios de desenvolvimento ágil, além das linguagens **Java** e **Kotlin**, experiência em bancos de dados SQL e NOSQL+.
   
-  Atualmente trabalhando em projetos próprios, estou em busca da primeira oportunidade no mercado. 😊
+  Atualmente trabalhando em projetos pessoais
     
  <div>
  
