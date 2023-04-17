@@ -1,15 +1,4 @@
-### 
-
-<details closed>
-
-    
-    
-<summary>About me</summary>
-
-    
-<br>
- 
-
+<h2> Hello, welcome to my github 👋 </h1>
     
 <div align="right" style="margin:auto">
      <a href="https://github.com/joaohr1">
@@ -17,10 +6,7 @@
        alt="Most used languages" align="right">
     </a>
 </div>
-
     
-> Hello, welcome to my github 👋
-
     
 I'm João. Passionate about technology, always looking for new challenges and opportunities to grow as a developer.
 
@@ -28,13 +14,25 @@ I'm João. Passionate about technology, always looking for new challenges and op
 I have experience working with RESTful API applications and microservices using Java and Spring framework.  
     
 Learning Kotlin as a hobby during my free time.
+
+<details closed>
+
     
+    
+<summary>Skills</summary>
 
 ```JAVA | SPRING BOOT | REST API | POSTGRESQL | MONGODB ```  
-<br>
- <a href = "mailto:joaoibitira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-hr-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    
+```MAVEN | GIT | MICROSERVICES | THYMELEAF | INTELLIJ ``` 
+  
 </details>
 
+<details closed>
+  <summary>Contact</summary>
+  
+  <a href = "mailto:joaoibitira@gmail.com"><img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <br>
+  <a href="https://www.linkedin.com/in/joao-hr-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</details>
+
+---
