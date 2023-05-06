@@ -21,8 +21,8 @@ Learning Kotlin as a hobby during my free time.
     
 <summary>Skills</summary>
 
-```JAVA | SPRING BOOT | REST API | POSTGRESQL | MONGODB ```  
-```MAVEN | GIT | MICROSERVICES | THYMELEAF | INTELLIJ ``` 
+```JAVA | SPRING BOOT | POSTGRESQL | MONGODB ```  
+```MAVEN | GIT | REST APIs | DOCKER | INTELLIJ ``` 
   
 </details>
 
