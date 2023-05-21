@@ -1,38 +1,49 @@
-<h2> Hello, welcome to my github 👋 </h1>
-    
-<div align="right" style="margin:auto">
-     <a href="https://github.com/joaohr1">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHr1&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-       alt="Most used languages" align="right">
-    </a>
+![Header](https://github.com/JoaoHr1/JoaoHr1/assets/115806935/1be1fb88-b948-466a-93b3-6122cb554b4d)
+
+<div align="center" style="margin:auto">
+    <h2>
+ Hello, welcome to my github👋 </h2>
+
 </div>
-    
-    
-I'm João. Passionate about technology, always looking for new challenges and opportunities to grow as a developer.
 
-    
-I have experience working with RESTful API applications and microservices using Java and Spring framework.  
-    
-Learning Kotlin as a hobby during my free time.
+### **About me:**
+* João Henrique, 19 years
+* Back-End Developer
+* currently studying java and kotlin
 
-<details closed>
 
-    
-    
-<summary>Skills</summary>
+### Languages
 
-```JAVA | SPRING BOOT | POSTGRESQL | MONGODB ```  
-```MAVEN | GIT | REST APIs | DOCKER | INTELLIJ ``` 
-  
-</details>
-
-<details closed>
-  <summary>Contact</summary>
-  
-  <a href = "mailto:joaoibitira@gmail.com"><img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <br>
-  <a href="https://www.linkedin.com/in/joao-hr-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</details>
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ---
+### Technologies 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ---
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
+### Others
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
+
+ <a href="https://github.com/joaohr1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohr1&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
