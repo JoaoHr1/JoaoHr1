@@ -49,5 +49,5 @@
 
 ---
 
-[![Joaohr1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoHr1&theme=high-contrast)](https://github.com/Joaohr1/github-readme-activity-graph)
+[![Joaohr1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoHr1&theme=high-contrast)](https://github.com/Joaohr1/github-readme-activity-graph)
 
