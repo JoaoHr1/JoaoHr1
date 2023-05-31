@@ -10,6 +10,7 @@
 * João Henrique, 19 years
 * Back-End Developer
 * Currently studying Java/spring-boot
+* Avenged Sevenfold fan number one 
 
 
 ### **Languages**
