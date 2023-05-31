@@ -7,7 +7,7 @@
 </div>
 
 ### **About me**
-* João Henrique, 19 years
+* João Henrique, 19 years old
 * Back-End Developer
 * Currently studying Java/spring-boot
 * Avenged Sevenfold fan number one 
