@@ -1,4 +1,3 @@
-![Header](https://github.com/JoaoHr1/JoaoHr1/assets/115806935/1be1fb88-b948-466a-93b3-6122cb554b4d)
 
 <div align="center" style="margin:auto">
     <h2>
