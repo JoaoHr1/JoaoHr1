@@ -43,10 +43,10 @@
 
 ### **Contact**
 <a href="https://www.linkedin.com/in/Joao-hr-rodrigues/">
-<img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JoaoRodrigues-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:joaoibitira@gmail.com">
-<img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img alt=gmail src="https://img.shields.io/badge/joaoibitira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 ---
