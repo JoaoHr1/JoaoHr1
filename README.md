@@ -9,8 +9,7 @@
 * João Henrique, 19 years old
 * Back-End Developer
 * Currently studying Java/spring-boot and some frontend with Angular
-* Avenged Sevenfold fan number one 
-
+* Interest in sports, animes and a7x  
 
 ### **Languages**
 
@@ -20,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ---
+---
 ### **Technologies**
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
@@ -28,7 +27,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ---
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +38,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ---
-
 ### **Contact**
 <a href="https://www.linkedin.com/in/Joao-hr-rodrigues/">
 <img src="https://img.shields.io/badge/JoaoRodrigues-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,5 +46,4 @@
 <img alt=gmail src="https://img.shields.io/badge/joaoibitira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
 
