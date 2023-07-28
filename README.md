@@ -3,13 +3,15 @@
     <h2>
  Hello, welcome to my github👋 </h2>
 
+[![joaohr1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaohr1&theme=high-contrast&custom_title=João%20%20Henrique%20Graph%20Activity&hide_border=true)](https://github.com/joaohr1/github-readme-activity-graph)
+
 </div>
 
 ### **About me**
 * João Henrique, 19 years old
 * Back-End Developer
 * Currently studying Java/spring-boot and some frontend with Angular
-* Interest in sports, animes and a7x  
+* Interest in sports, animes and a7x
 
 ### **Languages**
 
