@@ -1,12 +1,14 @@
 
 
 <div align="center" style="margin:auto">
-<h1>Hello, i'm João Henrique  👋 </h1>
+  
+![text (2)](https://github.com/JoaoHr1/JoaoHr1/assets/115806935/f4e75546-47a9-461c-aea2-3ac74966a563)
 
-<a href="http://reactiongifs.com/?p=13355"><img src="http://www.reactiongifs.com/r/2013/07/ralph-wave.gif"></a>
+
 </div>
 
-### **About me**
+### **💻  About me:**
+
 ```
 * João Henrique, 19 years old
 * Back-End Developer
