@@ -15,9 +15,10 @@
 * Currently studying Java/spring-boot and some frontend with Angular
 * Interested in sports, animes and a7x
 ```
-
-
 <div align="center" style="margin:auto">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darkavosgymbei&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=367f34&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=darkavosgymbei&redirect=true)
+
 
 ### **🛠 Tools and Programming Languages:**
 
