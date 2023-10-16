@@ -7,7 +7,7 @@
 
 </div>
 
-### About Me
+<h2> About Me </h2>
 
 * João Henrique, 20 years old
 * Back-End Developer
@@ -18,7 +18,7 @@
 <div align="center" style="margin:auto">
 
 
-### 🛠 Tools and Programming Languages:
+<h2> 🛠 Tools and Programming Languages: </h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -41,7 +41,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-### 📞 Contact
+<h2> 📞 Contact</h2>
 <a href="https://www.linkedin.com/in/Joao-hr-rodrigues/">
 <img src="https://img.shields.io/badge/JoaoRodrigues-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
