@@ -13,7 +13,6 @@
 * Back-End Developer
 * Currently studying Java/spring-boot and some frontend with Angular
 * Interested in sports, animes and a7x
-* Read my blog here - [Cérebro](https://joaohr1.github.io)
 
 <div align="center" style="margin:auto">
 
